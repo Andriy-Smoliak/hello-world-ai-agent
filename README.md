@@ -13,4 +13,4 @@ See [docs/usage.md](docs/usage.md). In Copilot Chat (Agent mode): `/init`.
 npm ci && npm run build && npm test
 ./build/hello        # Windows: build\hello.cmd
 ```
-Docs: [architecture](docs/architecture.md), [AI log](docs/ai-log.md), [lab report](docs/lab-report.md).
+Docs: [architecture](docs/architecture.md), [AI log](docs/ai-log.md).
